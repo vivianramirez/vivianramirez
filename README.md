@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vivianramirez
-- 👀 I’m interested in levearging language to dismantle educational barriers in tech
+- 👀 I’m interested in leveraging language to dismantle educational barriers in tech
 - 🌱 I’m currently learning how to code
 - 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me vivian-ramirez.com
